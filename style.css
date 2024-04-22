@@ -1,0 +1,13 @@
+body{
+text-align:center;
+background-color:rgba(255, 0, 0, 0.767);
+}
+
+h1{
+text-align:center;
+}
+
+div{
+background-color:white;
+border-radius:20px;
+}

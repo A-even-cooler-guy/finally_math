@@ -1,0 +1,24 @@
+#design{
+    text-align:center;
+    background-color:rgba(255, 0, 0, 0.767);
+    }
+
+    #more_design{
+        background-color:rgba(255, 0, 0, 0.767);  
+    }
+
+#numdiv{
+    background-color:white;
+    border-radius:20px;
+}
+
+#output{
+    background:white;
+    border-radius:20px;
+    border-top:10px solid #AA4465;
+    padding:10px;
+    float:none;
+    text-align:left;
+}
+ 
+
